@@ -67,6 +67,25 @@ function checkpalindromeforallformats(date) {
 
 
 }
+
+function getnextdate(date) {
+    var day = date.day + 1;
+    var month = date.month;
+    var year = date.year;
+
+    var daysinmonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+
+
+}
+
+
+
+function getnextpalindromedate(date) {
+
+
+
+
+}
 var date = {
     day: 01,
     month: 10,
