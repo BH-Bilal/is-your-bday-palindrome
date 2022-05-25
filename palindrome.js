@@ -194,7 +194,7 @@ function getPreviousPalindromeDate(date) {
 
 var dateinput = document.querySelector("#bday");
 var showbtnref = document.querySelector("#show");
-var resultref = document.querySelector(".output");
+var resultref = document.querySelector("#output");
 
 function clickhandler() {
 
