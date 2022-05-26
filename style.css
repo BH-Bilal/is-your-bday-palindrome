@@ -3,7 +3,7 @@ body {
     padding: 1rem;
     box-sizing: border-box;
     height: 100vh;
-    background-color: rgb(29, 35, 51);
+    background-color: rgb(12, 31, 83);
     color: white;
 }
 
@@ -17,4 +17,8 @@ p {
     padding: 2rem;
     text-align: left;
     font-size: large;
+}
+
+#show-btn {
+    color: rgb(12, 31, 83);
 }
